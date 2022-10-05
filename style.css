@@ -1,0 +1,27 @@
+
+.upper{
+    color:darkblue; 
+    font-family:cursive;
+}
+
+.box{
+    height: 15mm; 
+    width:45mm; 
+    background-color:darkturquoise; 
+    border:2px solid black; 
+    text-align:right; 
+    font-family:cursive;
+}
+.button{
+    height:8mm; 
+    width:10mm; 
+    border-radius:10px; 
+    background-color:cornflowerblue; 
+    border:2px solid black; 
+    font-family:cursive;
+    transition: 2ms;
+    
+}
+.back{
+    background-color: darkturquoise;
+}
